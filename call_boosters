@@ -3,7 +3,7 @@
         {
             "asset" : {
                 "name" : "BNB",
-                "img" : "",
+                "img" : "https://raw.githubusercontent.com/bufferfinance/Buffer-Website-Data/main/Assets/bnb.svg",
                 "current_price" : ""
             },
             "total_cost" : 92870000000000000,
