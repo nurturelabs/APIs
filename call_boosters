@@ -1,0 +1,18 @@
+{
+    "data" : [
+        {
+            "asset" : {
+                "name" : "BNB",
+                "img" : "",
+                "current_price" : ""
+            },
+            "total_cost" : 92870000000000000,
+            "size_wei": 3854031976236240000,
+            "break_even": 40815525267.82208,
+            "token_balance" : 92870000000000000,
+            "strike" : 36394900000,
+            "max_size": 2667482447382412300,
+            "expiry" : 86400
+        }
+    ]
+}
